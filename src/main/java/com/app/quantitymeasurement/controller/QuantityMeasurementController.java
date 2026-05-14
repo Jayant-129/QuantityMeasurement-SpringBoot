@@ -74,7 +74,7 @@ public class QuantityMeasurementController {
 
      @GetMapping("/success")
     public String success(){
-        return "successfull";
+        return "successfull Testing of Webhook done";
     }
 
     /**
