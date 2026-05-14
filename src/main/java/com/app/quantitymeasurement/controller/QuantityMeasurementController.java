@@ -72,6 +72,11 @@ public class QuantityMeasurementController {
         return ResponseEntity.ok(result);
     }
 
+     @GetMapping("/success")
+    public String success(){
+        return "success";
+    }
+
     /**
      * POST /api/v1/quantities/convert
      *
