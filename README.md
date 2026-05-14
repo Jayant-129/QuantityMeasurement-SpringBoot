@@ -11,3 +11,5 @@ A Spring Boot application providing APIs for converting and managing various phy
 - Java
 - Spring Boot
 - Maven
+- Jenkins
+- AWS
